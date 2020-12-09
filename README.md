@@ -8,7 +8,7 @@
 <a href="https://github.com/TnDjarot-id404"><img title="Author" src="https://img.shields.io/badge/AUTHOR-DJAROT-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://www.codefactor.io/repository/github/djarot/whatsapp-bot/overview/master"><img title="Rating" src="https://www.codefactor.io/repository/github/djarot/whatsapp-bot/badge/master"></a>
+<a href="https://www.codefactor.io/repository/github/TnDjarot-id404/Bot-WhatsApp/overview/master"><img title="Rating" src="https://www.codefactor.io/repository/github/TnDjarot-id404/Bot-WhatsApp/badge/master"></a>
 </p>
 <p align="center">
 <a href="https://github.com/djarot/followers"><img title="Followers" src="https://img.shields.io/github/followers/djarot?color=blue&style=flat-square"></a>
