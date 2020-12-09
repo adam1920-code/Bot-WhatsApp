@@ -1,19 +1,9 @@
-/*
-* JANGAN UBAH-UBAH INFO!!!
-* "JANGAN MODAL NAMA DOANG BRO!!!"
-* SCRIPT BY TnDjarot-id404
-* JANGAN MODAL NAMA DOANG BOSQ
-* HARGAILAH YY MEMBUAT SCRIPT INI BOSQ
-* JANGAN UBAH-UBAH INFO!!!
-* TnDjarot-id404
-* BOLEH UBAH TAPI KECUALI INFO!!!
-*/
-const Jarot-id404 = '👑TnDjarot-id404👑'; // JANGAN UBAH-UBAH INFO!!!
-const instagram = 'https://instagram.com/creator_official03'; // JANGAN UBAH-UBAH INFO!!!
-const nomer = 'Wa.me/+6282328023356'; // JANGAN UBAH-UBAH INFO!!!
-const aktif = 'Sesuai Kondisi Jaringan'; // JANGAN UBAH-UBAH INFO!!!
-const groupwhatsapp = 'https://chat.whatsapp.com/GU6NsgZvfgw37vrjIxUPhP'; // JANGAN UBAH-UBAH INFO!!!
-const facebook = 'https://www.youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg'; // JANGAN UBAH-UBAH INFO!!!
+const Jarot-id404 = '👑TnDjarot-id404👑'; //
+const instagram = 'https://instagram.com/creator_official03'; //
+const nomer = 'Wa.me/+6282328023356'; //
+const aktif = 'Sesuai Kondisi Jaringan'; //
+const groupwhatsapp = 'https://chat.whatsapp.com/GU6NsgZvfgw37vrjIxUPhP'; //
+const facebook = 'https://www.youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg'; //
 //Jarot-id404
 const qrcode = require("qrcode-terminal");
 const moment = require("moment");
@@ -1270,7 +1260,7 @@ if (text.includes("!alay")){
 	})
 }
 
-//Dilarang keras ubah/rename Bot By TnDjarot-id404
+//
 
 
 })
