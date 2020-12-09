@@ -21,7 +21,7 @@
 <details>
  <summary>🔥 Help me!</summary>
  
- [Trakteer](https://trakteer.id/arugabot)
+ [Trakteer](https://trakteer.id/tecnology-chanell-rci6e)
  
 </details>
 
