@@ -1,201 +1,122 @@
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Aris187 ID
 <p align="center">
-<img src="https://i.ibb.co/sQ1CFLq/IMG-20201209-013604.jpg" width="128" height="128"/>
+<img src="https://raw.githubusercontent.com/TnDjarot-id404/Bot-WhatsApp/main/temp/A187.jpg" width="230" height="230"/>
+</p>
+<br>
+
+
+
+<p align="center">
+<a href="#"><img title="👑TNDJAROT-ID404👑" src="https://img.shields.io/badge/Bot-WhatsApp-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="#"><img title="Bot WhatsApp" src="https://img.shields.io/badge/Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="https://github.com/TnDjarot-id404"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ARIS187 ID-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/TnDjarot-id404"><img title="Author" src="https://img.shields.io/badge/AUTHOR-DJAROT-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://www.codefactor.io/repository/github/TnDjarot-id404/Bot-WhatsApp"><img title="Rating" src="https://www.codefactor.io/repository/github/TnDjarot-id404/Bot-WhatsApp/badge/main"></a>
 </p>
 <p align="center">
-<a href="https://i.ibb.co/sQ1CFLq/IMG-20201209-013604.jpg"><img title="Rating" src="https://i.ibb.co/sQ1CFLq/IMG-20201209-013604.jpg"></a>
+<a href="https://github.com/TnDjarot-id404/Bot-WhatsApp/followers"><img title="Followers" src="https://img.shields.io/github/followers/TnDjarot-id404?color=blue&style=flat-square"></a>
+<a href="https://github.com/TnDjarot-id404/Bot-WhatsApp/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/TnDjarot-id404/Bot-WhatsApp?color=red&style=flat-square"></a>
+<a href="https://github.com/TnDjarot-id404/Bot-WhatsApp/network/members"><img title="Forks" src="https://img.shields.io/github/forks/TnDjarot-id404/Bot-WhatsApp?color=red&style=flat-square"></a>
+<a href="https://github.com/TnDjarot-id404/Bot-WhatsApp/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/TnDjarot-id404/Bot-WhatsApp?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTnDjarot-id404%2FBot-WhatsApp&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 </p>
-<p align="center">
-<a href="https://github.com/djarot/followers"><img title="Followers" src="https://img.shields.io/github/followers/djarot?color=blue&style=flat-square"></a>
-<a href="https://github.com/TnDjarot-id404/djarot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/djarot/whatsapp-bot?color=red&style=flat-square"></a>
-<a href="https://github.com/TnDjarot-id404/djarot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/djarot/whatsapp-bot?color=red&style=flat-square"></a>
-<a href="https://github.com/TnDjarot-id404/djarot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/djarot/whatsapp-bot?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FArugaZ%2Fwhatsapp-bot&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-</p>
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" alt="Mario Game" width="600" />
 <div align="center">
 <details>
- <summary>🔥 Help me!</summary>
- 
- [Trakteer](https://trakteer.id/tecnology-chanell-rci6e)
  
 </details>
 
-ini semua gratis, sulton mah bebas👑 ya :D
-<p align="center"><a href="https://djarot.herokuapp.com/" target="_blank">My Rest APIs</a>.</p>
-<p align="center"><a href="https://wa.me/6282328023356?text=%23menu" target="_blank">My Whatsapp BOT</a>.</p>
+### WARNING
+MAU RE-UPLOAD SCRIPT? KASIH NAMA/LINK CHANEL SAYA.... DILARANG UBAH INFO!!!
+
+## NOTE:> 
+SCRIPTNYA JANGAN DI JUAL/BELI KAN.. SCRIPT INI 100% GRATIS BUAT KALIAN PENGGUNA TERMUX
 </div>
 
-## Getting Started
-
-This project require NodeJS v12.
-
-### Install
-Clone this project
-
+### ALAT DAN BAHAN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="29px">
+Siapin alat dan bahannya.
 ```bash
-> git clone https://github.com/TnDjarot-id404/Bot-WhatsApp.git
-> cd whatsapp-bot
+> niat
+> 2 handphone (1 buat jalanin sc, 1 buat scan kode qr kak)
+> jaringan internet kenceng,kuota+
+> penyimpanan yang memadai
+> aplikasi whatsapp
+> aplikasi termux
+> kopi+rokok ;v
 ```
 
-Install the dependencies:
-
+### CARA INSTALLNYA  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
+Script ini di modifikasi sama saya sendiri TnDjarot-id404.
 ```bash
-> npm install 
-> npm install gify-cli -g
+> kalo lu belum punya apk termux, download di playstore
+> masuk ke apk termux lalu ketik dibawah ini!
+> termux-setup-storage
+> pkg install git && pkg install tesseract && pkg install wget && pkg install ffmpeg && pkg install nodejs
+> apt update && apt upgrade
+> git clone https://github.com/TnDjarot-id404/Bot-WhatsApp
+> cd Bot-WhatsApp
+> npm i -g cwebp && npm i node-tesseract-ocr && npm i -g ytdl && npm i  && npm i got && node index js
+> Tinggal scan kode qr yeee...done
 ```
 
-### Usage
-Run the Whatsapp bot
+## FEATURES  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px">
 
-```bash
-> npm start
-```
+| ROOTBOT    |                   Feature        |
+| :-----------: | :------------------------------: |
+|       ✅       | Sticker Creator                  |
+|       ✅       | Nulis                            |
+|       ✅       | Covid (new)                      |
+|       ✅       | Alay (new)                       |
+|       ✅       | Lirik (new)                      |
+|       ✅       | Foto Anime                       |
+|       ✅       | Foto cewek/cowok (new)           |
+|       ✅       | Pantun                           |
+|       ✅       | Youtube Downloader               |
+|       ✅       | Quotes                           |
+|       ✅       | Nama (new)                       |
+|       ✅       | Foto Anime                       |
+|       ✅       | Pasangan (new)                   |
+|       ✅       | Sholat (new )                    |
+|       ✅       | Suara Google (fix)               |
+|       ✅       | Quran                            |
+|       ✅       | Youtube MP3 Downloader           |
+|       ✅       | Intagram Downloader              |
+|       ✅       | Twitter Downloader               |
+|       ✅       | Facebook Downloader              |
+|       ✅       | TikTok Downloader  (new)         |
+|       ✅       | Wikipedia                        |
+|       ✅       | Say                              |
+|       ✅       | Toxic (new)                      |
+|       ✅       | loli                             |
+|       ✅       | hentai                           |
+|       ✅       | Owner (new)                      |
+|       ✅       | kata bijak                       |
+|       ✅       | Fakta                            |
+|       ✅       | Pokemon                          |
+|       ✅       | Info                             |
+|       ✅       | Donate                           |
+|       ✅       | 18+.                             |
+|                   MORE  Fitur                     |
 
-after running it you need to scan the qr
+Ket: Aktiv 24 jam
 
-### Information
-- Change ownerNumber on [this section](https://github.com/TnDjarot-id404/djarot/blob/master/settings/setting.json#L2)
-- Change groupLimit on [this section](https://github.com/TnDjarot-id404/djarot/blob/master/settings/setting.json#L3)
-- Change memberLimit on [this section](https://github.com/TnDjarot-id404/djarot/blob/master/settings/setting.json#L4)
-- Change prefix on [this section](https://github.com/TnDjarot-id404/djarot/blob/master/settings/setting.json#L5)
-- Change menu on [this section](https://github.com/TnDjarot-id404/djarot/blob/master/lib/menu.js#L32)
-- Add kata kasar on [this section](https://github.com/TnDjarot-id404/djarot/blob/master/lib/kataKotor.js#L8)
-- Change all apiKey on [this section](https://github.com/TnDjarot-id404/djarot/blob/master/settings/api.json)
-- Get Api NoBackground on [this website](https://www.remove.bg/)
-- Get Api ScreenShot on [this website](https://apiflash.com/)
-- Get Api Simi-simi on [this website](https://workshop.simsimi.com/en/), masih limit api simi-siminya? [cek ini](https://github.com/TnDjarot-id404/djarot/issues/38#issuecomment-726981060)
-
----
-
-## Features
-
-| 18+ |Yes|
-| ------------- | ------------- |
-| Nekopoi |✅|
-
-| Creator |Yes|
-| ------------- | ------------- |
-| Respond img to sticker|✅|
-| Respond img to sticker no bg|✅|
-| Respond url to sticker|✅|
-| Respond gif to sticker|✅|
-| Respond giphy url to sticker|✅|
-| Make a meme from photo|✅|
-| Quotes maker result pict|✅|
-| Nulis Bot|✅|
-
-| Islam |Yes|
-| ------------- | ------------- |
-| List Surah|✅|
-| Info Surah|✅|
-| Surah|✅|
-| Tafsir Alquran|✅|
-| Alquran Audio/Voice|✅|
-| Jadwal solat|✅|
-
-| Downloader |Yes|
-| ------------- | ------------- |
-| Youtube Music |✅|
-| Youtube Video |✅|
-| Facebook |✅|
-
-| Fun Group! |Yes|
-| ------------- | ------------- |
-| Simi-simi BOT|✅|
-| Anti kata kasar|✅|
-
-| Primbon |Yes|
-| ------------- | ------------- |
-| Arti nama |✅|
-| Cek Jodoh |✅|
-
-| Searchs |Yes|
-| ------------- | ------------- |
-| Images |✅|
-| Subreddit |✅|
-| Resep makanan |✅|
-| Stalk IG |✅|
-| Wikipedia |✅|
-| Cuaca |✅|
-| Chord musik |✅|
-| Lirik musik |✅|
-| Screen Crot!|✅|
-| Play music|✅|
-| whats anime?|✅|
-
-| Random text |Yes|
-| ------------- | ------------- |
-| Pantun pakboy|✅|
-| Fakta Menarik|✅|
-| Kata Bijak|✅|
-| Quotes|✅|
-| Cerita Sex|✅|
-| Cerita Pendek|✅|
-| Puisi|✅|
-
-| Random image |Yes|
-| ------------- | ------------- |
-| Anime |✅|
-| Kpop |✅|
-| Memes |✅|
+## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
+* [`Donasi 👑TNDJAROT-ID404👑`](https://saweria.co/aris187id)
 
 
-| Others |Yes|
-| ------------- | ------------- |
-| Teks to Sound/Voice|✅|
-| Translate teks|✅|
-| Get covid info from map|✅|
-| Covid-19 Indo|✅|
-| Shortlink|✅|
-| Bap4k F0nt|✅|
+## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
-| Groups |Yes|
-| ------------- | ------------- |
-| Owner||
-| Kick all members|✅|
-| Admin||
-| Add user|✅|
-| Kick user|✅|
-| Promote User|✅|
-| Demote User|✅|
-| Mute Group|✅|
-| Change Group icon|✅|
-| Delete bot msg|✅|
-| Tagall/mentions all|✅|
-| Welcome ON/OFF|✅|
+* [`Youtube Admin`](https://www.youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg)
+* [`Instagram Admin`](https://instagram.com/_creator_official03)
+* [`WhatsApp Admin `](https://wa.me/+6282328023356)
+## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
+* [`fdciabdul`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
-| Owner bot |Yes|
-| ------------- | ------------- |
-| Broadcast|✅|
-| Leave all group|✅|
-| Delete all msgs|✅|
-| Banned user|✅|
+* [`ArugaZ`](https://github.com/ArugaZ/whatsapp-bot)
+* [`MhankBarBar`](https://github.com/MhankBarBar/whatsapp-bot)
+* [`Alfbot`](https://github.com/alfiansx/alfbot)
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
 
-
-## To-Do
- - Add Media Downloader
- - Add More Feature
- - More refactoring
- 
----
-
-## Troubleshooting
-Make sure all the necessary dependencies are installed: https://github.com/puppeteer/puppeteer/blob/main/docs/troubleshooting.md
-
-Fix Stuck on linux, install google chrome stable: 
-```bash
-> wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-> sudo apt install ./google-chrome-stable_current_amd64.deb
-```
-
-## Thanks to
-- [WA-Automate](https://github.com/open-wa/wa-automate-nodejs)
-- [YogaSakti](https://github.com/YogaSakti/imageToSticker)
-- [MhankBarBar](https://github.com/MhankBarBar/whatsapp-bot)
-- [dandyraka](https://github.com/dandyraka/NoBadWord)
