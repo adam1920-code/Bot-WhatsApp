@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://avatars2.githubusercontent.com/u/53950128?s=460&u=09f530e3326f710c4e0f9106f094eeea5429f86d&v=4" width="128" height="128"/>
+<img src="https://github.com/TnDjarot-id404" width="128" height="128"/>
 </p>
 <p align="center">
 <a href="#"><img title="Bot WhatsApp" src="https://img.shields.io/badge/Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
