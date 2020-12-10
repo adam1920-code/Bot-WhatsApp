@@ -1,4 +1,4 @@
-const Jarot-id404 = '👑TnDjarot-id404👑';
+const Jarot = '👑TnDjarot-id404👑';
 const instagram = 'https://instagram.com/creator_official03';
 const nomer = 'Wa.me/+6282328023356';
 const aktif = 'Sesuai Kondisi Jaringan';
