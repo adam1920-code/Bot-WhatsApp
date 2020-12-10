@@ -1,9 +1,9 @@
-const Jarot-id404 = '👑TnDjarot-id404👑'; //
-const instagram = 'https://instagram.com/creator_official03'; //
-const nomer = 'Wa.me/+6282328023356'; //
-const aktif = 'Sesuai Kondisi Jaringan'; //
-const groupwhatsapp = 'https://chat.whatsapp.com/GU6NsgZvfgw37vrjIxUPhP'; //
-const facebook = 'https://www.youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg'; //
+const Jarot-id404 = '👑TnDjarot-id404👑';
+const instagram = 'https://instagram.com/creator_official03';
+const nomer = 'Wa.me/+6282328023356';
+const aktif = 'Sesuai Kondisi Jaringan';
+const groupwhatsapp = 'https://chat.whatsapp.com/GU6NsgZvfgw37vrjIxUPhP';
+const facebook = 'https://www.youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg';
 //Jarot-id404
 const qrcode = require("qrcode-terminal");
 const moment = require("moment");
