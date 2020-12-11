@@ -13,9 +13,7 @@
 <a href="https://github.com/TnDjarot-id404"><img title="Author" src="https://img.shields.io/badge/TnDjarot-ROOTBOT%20ID-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://www.codefactor.io/repository/github/TnDjarot-id404/Bot-WhatsApp"><audio controls>
-  <source src="https://e.top4top.io/m_1581vn1q91.mp3" type="audio/ogg">
-  <source src="https://e.top4top.io/m_1581vn1q91.mp3" type="audio/mpeg"></audio></a>
+<a href="https://www.codefactor.io/repository/github/TnDjarot-id404/Bot-WhatsApp"><img src="https://www.gambaranimasi.org/data/media/707/animasi-bergerak-selamat-datang-0291.gif" width="300px"></a>
 
 </p>
 <p align="center">
