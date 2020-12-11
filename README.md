@@ -13,7 +13,7 @@
 <a href="https://github.com/TnDjarot-id404"><img title="Author" src="https://img.shields.io/badge/TnDjarot-ROOTBOT%20ID-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://www.codefactor.io/repository/github/TnDjarot-id404/Bot-WhatsApp"><audio src="honestly.mp3" autoplay controls></audio>></a>
+<a href="https://www.codefactor.io/repository/github/TnDjarot-id404/Bot-WhatsApp"><audio src="honestly.mp3" autoplay controls></audio></a>
 </p>
 <p align="center">
 <a href="https://github.com/TnDjarot-id404/Bot-WhatsApp/followers"><img title="Followers" src="https://img.shields.io/github/followers/TnDjarot-id404?color=blue&style=flat-square"></a>
