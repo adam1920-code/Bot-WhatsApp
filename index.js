@@ -1,4 +1,3 @@
-const client = require('@open-wa/wa-automate')
 const welcome = require('./lib/welcome')
 const left = require('./lib/left')
 const cron = require('node-cron')
