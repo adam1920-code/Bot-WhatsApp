@@ -24,7 +24,7 @@
 <a href="https://github.com/TnDjarot-id404/Bot-WhatsApp/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/TnDjarot-id404/Bot-WhatsApp?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTnDjarot-id404%2FBot-WhatsApp&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 </p>
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" alt="Mario Game" width="600" />
+<img src="https://assets.kompasiana.com/items/album/2015/08/03/tumblr-inline-mo706gt6lw1qz4rgp-55bea7f72423bd710f4e42a2.gif" alt="Mario Game" width="600" />
 <div align="center">
 <details>
  
