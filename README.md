@@ -15,9 +15,7 @@
 <p align="center">
 <a href="https://www.codefactor.io/repository/github/TnDjarot-id404/Bot-WhatsApp"><audio controls>
   <source src="https://e.top4top.io/m_1581vn1q91.mp3" type="audio/ogg">
-  <source src="https://e.top4top.io/m_1581vn1q91.mp3" type="audio/mpeg">
-▶
-</audio></a>
+  <source src="https://e.top4top.io/m_1581vn1q91.mp3" type="audio/mpeg"></audio></a>
 
 </p>
 <p align="center">
