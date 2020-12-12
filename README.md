@@ -2,6 +2,8 @@
 <p align="center">
 <img src="https://i.ibb.co/LhMqJyc/IMG-20201209-013604.jpg" width="230" height="230"/>
 </p>
+<img src="https://www.gambaranimasi.org/data/media/707/animasi-bergerak-selamat-datang-0291.gif" width="300px">
+<p align="center"></a>
 <br>
 
 
