@@ -15,8 +15,7 @@
 <a href="https://github.com/TnDjarot-id404"><img title="Author" src="https://img.shields.io/badge/TnDjarot-ROOTBOT%20ID-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://www.codefactor.io/repository/github/TnDjarot-id404/Bot-WhatsApp"><img src="https://www.gambaranimasi.org/data/media/707/animasi-bergerak-selamat-datang-0291.gif" width="300px">
-<p align="center"></a>
+<a href="https://www.codefactor.io/repository/github/TnDjarot-id404/Bot-WhatsApp"><marquee bgcolor=”yellow”> Teks Ini Berjalan Dengan Background Kuning</marquee></a>
 
 </p>
 <p align="center">
