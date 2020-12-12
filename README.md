@@ -1,6 +1,6 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px"> I'm FIKRI LANGKAP
 <p align="center">
-<img src="https://i.ibb.co/LhMqJyc/IMG-20201209-013604.jpg" width="350" height="324"/>
+<img src="https://i.ibb.co/LhMqJyc/IMG-20201209-013604.jpg" width="250" height="224"/>
 <br>
 <img src="https://www.gambaranimasi.org/data/media/707/animasi-bergerak-selamat-datang-0291.gif" width="300px">
 <p align="center">
