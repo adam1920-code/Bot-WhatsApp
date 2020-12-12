@@ -115,7 +115,7 @@ Ket: Aktif 24 jam
 
 ## SOSIAL MEDIA ADMIN <img src="https://www.gambaranimasi.org/data/media/687/animasi-bergerak-tengkorak-0064.gif" width="40px">
 
-* [`Youtube Admin`](https://www.youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg)
+* [`Facebook Admin`](https://www.facebook.com/fikri.langkap.94)
 * [`Instagram Admin`](https://instagram.com/creator_official03)
 * [`WhatsApp Admin `](https://wa.me/+6282328023356)
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
