@@ -28,26 +28,26 @@
 </details>
 
 ### WARNING!!!..
-MAU RE-UPLOAD SCRIPT? KASIH NAMA/LINK CHANEL SAYA.... DILARANG UBAH INFO!!!
+DILARANG RE UPLOAD & DILARANG UBAH INFO TANPA SEIZIN DEVELOPER!!!
 
 ## NOTE:)
-SCRIPTNYA JANGAN DI JUAL/BELI KAN.. SCRIPT INI 100% GRATIS BUAT KALIAN PENGGUNA TERMUX
+SCRIPT INI 100% GRATIS/FREEE UNTUK KALIAN PENGGUNA TERMUX
 </div>
 
 ### ALAT DAN BAHAN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="29px">
-Siapin alat dan bahannya.
+Alat Dan Bahannya Yg Wajib Di Sediakan.
 ```bash
-> niat
-> 2 handphone (1 buat jalanin sc, 1 buat scan kode qr kak)
-> jaringan internet kenceng,kuota+
-> penyimpanan yang memadai
-> aplikasi whatsapp
-> aplikasi termux
-> kopi+rokok ;v
+•> Niat
+•> 2 Handphone (Gunanya 1 Hp Buat Jalanin Sc,Dan 1 Hp Lagi Buat Scan Kode Qr Ya Tod)
+•> Jaringan Internet Kenceng Dan Paling Penting Punya Paketan
+•> Penyimpanan Harus Mewadai Memadai
+•> Apk Whatsapp
+•> Apk Termux
+•> Dan Jngan Lupa Kopi & Rokok Ini Yg Paling Penting Dari Semuanya ;V😉
 ```
 
 ### CARA INSTALLNYA  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
-Script ini di modifikasi sama saya sendiri FIKRI LANGKAP.
+Script Ini Di Modifikasi Buat Kalian Pengguna Termux.
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
