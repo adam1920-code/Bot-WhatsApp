@@ -5,9 +5,6 @@
 <img src="https://www.gambaranimasi.org/data/media/707/animasi-bergerak-selamat-datang-0291.gif" width="300px">
 <p align="center">
 <br>
-
-
-
 <p align="center">
 <a href="#"><img title="👑Bot-WhatsApp👑" src="https://img.shields.io/badge/Bot-WhatsApp-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
@@ -115,9 +112,9 @@ Ket: Aktiv 24 jam
 * [`WhatsApp Admin `](https://wa.me/+6282328023356)
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 </p>
-<img src="http://1.bp.blogspot.com/-ED4v8icNdMc/VAcnghbLoqI/AAAAAAAAAFE/j2-WWtBOeBQ/s1600/tangan-api.gif" width=900px/>
+<img src="http://1.bp.blogspot.com/-ED4v8icNdMc/VAcnghbLoqI/AAAAAAAAAFE/j2-WWtBOeBQ/s1600/tangan-api.gif" width=500px/>
 </p>
 <br>
-<img src="https://www.gambaranimasi.org/data/media/466/animasi-bergerak-terima-kasih-0111.gif" width="300px">
+<img src="https://www.gambaranimasi.org/data/media/466/animasi-bergerak-terima-kasih-0111.gif" width="400px">
 <p align="center"></a>
 
