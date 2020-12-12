@@ -113,7 +113,7 @@ Ket: Aktif 24 jam
 * [`Donasi 👑Bot-WhatsApp👑`](https://saweria.co/Djarot)
 
 
-## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
+## SOSIAL MEDIA ADMIN <img src="https://www.gambaranimasi.org/data/media/687/animasi-bergerak-tengkorak-0064.gif" width="29px">
 
 * [`Youtube Admin`](https://www.youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg)
 * [`Instagram Admin`](https://instagram.com/creator_official03)
