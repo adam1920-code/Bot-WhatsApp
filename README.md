@@ -110,7 +110,7 @@ $ node index js
 Ket: Aktif 24 jam
 
 ## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
-* [`Donasi 👑Bot-WhatsApp👑`](https://saweria.co/Djarot)
+* [`Donasi Djarot`](https://saweria.co/Djarot)
 
 
 ## SOSIAL MEDIA ADMIN <img src="https://www.gambaranimasi.org/data/media/687/animasi-bergerak-tengkorak-0064.gif" width="40px">
