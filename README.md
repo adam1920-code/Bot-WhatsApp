@@ -113,6 +113,7 @@ Ket: Aktiv 24 jam
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 </p>
 <img src="http://1.bp.blogspot.com/-ED4v8icNdMc/VAcnghbLoqI/AAAAAAAAAFE/j2-WWtBOeBQ/s1600/tangan-api.gif" width=500px/>
+<p align="center">
 </p>
 <br>
 <img src="https://www.gambaranimasi.org/data/media/466/animasi-bergerak-terima-kasih-0111.gif" width="400px">
