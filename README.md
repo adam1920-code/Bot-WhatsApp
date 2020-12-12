@@ -113,14 +113,14 @@ Ket: Aktif 24 jam
 * [`Donasi 👑Bot-WhatsApp👑`](https://saweria.co/Djarot)
 
 
-## SOSIAL MEDIA ADMIN <img src="https://www.gambaranimasi.org/data/media/687/animasi-bergerak-tengkorak-0064.gif" width="60px">
+## SOSIAL MEDIA ADMIN <img src="https://www.gambaranimasi.org/data/media/687/animasi-bergerak-tengkorak-0064.gif" width="40px">
 
 * [`Youtube Admin`](https://www.youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg)
 * [`Instagram Admin`](https://instagram.com/creator_official03)
 * [`WhatsApp Admin `](https://wa.me/+6282328023356)
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 </p>
-<img src="http://1.bp.blogspot.com/-ED4v8icNdMc/VAcnghbLoqI/AAAAAAAAAFE/j2-WWtBOeBQ/s1600/tangan-api.gif" width=400px/>
+<img src="http://1.bp.blogspot.com/-ED4v8icNdMc/VAcnghbLoqI/AAAAAAAAAFE/j2-WWtBOeBQ/s1600/tangan-api.gif" width=500px/>
 <p align="center">
 </p>
 <br>
