@@ -1,4 +1,4 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px"> I'm FIKRI LANGKAP
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px"> I'm FIKRI LANGKAP
 <p align="center">
 <img src="https://i.ibb.co/LhMqJyc/IMG-20201209-013604.jpg" width="230" height="230"/>
 <br>
