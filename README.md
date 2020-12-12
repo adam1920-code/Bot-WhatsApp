@@ -120,7 +120,7 @@ Ket: Aktif 24 jam
 * [`WhatsApp Admin `](https://wa.me/+6282328023356)
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 </p>
-<img src="http://1.bp.blogspot.com/-ED4v8icNdMc/VAcnghbLoqI/AAAAAAAAAFE/j2-WWtBOeBQ/s1600/tangan-api.gif" width=500px/>
+<img src="http://1.bp.blogspot.com/-ED4v8icNdMc/VAcnghbLoqI/AAAAAAAAAFE/j2-WWtBOeBQ/s1600/tangan-api.gif" width=600px/>
 <p align="center">
 </p>
 <br>
