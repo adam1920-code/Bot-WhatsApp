@@ -15,8 +15,7 @@
 <a href="https://github.com/TnDjarot-id404"><img title="Author" src="https://img.shields.io/badge/TnDjarot-ROOTBOT%20ID-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://www.codefactor.io/repository/github/TnDjarot-id404/Bot-WhatsApp"><marquee bgcolor=”yellow”> Teks Ini Berjalan Dengan Background Kuning</marquee></a>
-
+<a href="https://www.codefactor.io/repository/github/TnDjarot-id404/Bot-WhatsApp">
 </p>
 <p align="center">
 <a href="https://github.com/TnDjarot-id404/Bot-WhatsApp/followers"><img title="Followers" src="https://img.shields.io/github/followers/TnDjarot-id404?color=blue&style=flat-square"></a>
@@ -117,3 +116,8 @@ Ket: Aktiv 24 jam
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 </p>
 <img src="http://1.bp.blogspot.com/-ED4v8icNdMc/VAcnghbLoqI/AAAAAAAAAFE/j2-WWtBOeBQ/s1600/tangan-api.gif" width=900px/>
+</p>
+<br>
+<img src="https://www.gambaranimasi.org/data/media/466/animasi-bergerak-terima-kasih-0111.gif" width="300px">
+<p align="center"></a>
+
