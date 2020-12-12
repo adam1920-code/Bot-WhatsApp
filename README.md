@@ -1,4 +1,4 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm FIKRI LANGKAP
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px"> I'm FIKRI LANGKAP
 <p align="center">
 <img src="https://i.ibb.co/LhMqJyc/IMG-20201209-013604.jpg" width="230" height="230"/>
 <br>
@@ -47,7 +47,7 @@ Alat Dan Bahannya Yg Wajib Di Sediakan.
 ```
 
 ### CARA INSTALLNYA  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
-Script Ini Di Modifikasi Buat Kalian Pengguna Termux.
+Script Ini Di Modifikasi Buati Kalian Para Pengguna Termux✔😉.
 ```bash
 •>masuk ke apk termux lalu ketik dibawah ini.Belum punya? download dulu di playstore ada!
 $ termux-setup-storage
