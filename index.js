@@ -8,11 +8,11 @@
 * FIKRI LANGKAP
 * BOLEH UBAH TAPI KECUALI INFO!!!
 */
-const J412OT = '👑ROOTBOT👑'; // JANGAN UBAH-UBAH INFO!!!
+const J412OT = 'WIKI BOT™'; // JANGAN UBAH-UBAH INFO!!!
 const instagram = 'https://instagram.com/creator_official03'; // JANGAN UBAH-UBAH INFO!!!
-const nomer = 'Wa.me/+6282328023356'; // JANGAN UBAH-UBAH INFO!!!
+const nomer = 'Wa.me/+6283153843600'; // JANGAN UBAH-UBAH INFO!!!
 const aktif = 'Tergantung jaringan'; // JANGAN UBAH-UBAH INFO!!!
-const groupwhatsapp = 'https://chat.whatsapp.com/KtYXP8oNw9NBxr3ltcwKyU'; // JANGAN UBAH-UBAH INFO!!!
+const groupwhatsapp = 'https://chat.whatsapp.com/KtYXP8oNw9NBxr3ltcw'; // JANGAN UBAH-UBAH INFO!!!
 const youtube = 'https://www.youtube.com/channel/jesnolimit'; // JANGAN UBAH-UBAH INFO!!!
 //J4R07
 const qrcode = require("qrcode-terminal");
