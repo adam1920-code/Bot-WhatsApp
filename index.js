@@ -8,12 +8,12 @@
 * FIKRI LANGKAP
 * BOLEH UBAH TAPI KECUALI INFO!!!
 */
-const J412OT = '👑ROOTBOT👑'; // JANGAN UBAH-UBAH INFO!!!
-const instagram = 'https://instagram.com/creator_official03'; // JANGAN UBAH-UBAH INFO!!!
-const nomer = 'Wa.me/+6282328023356'; // JANGAN UBAH-UBAH INFO!!!
+const J412OT = 'WIKI BOT™'; // JANGAN UBAH-UBAH INFO!!!
+const instagram = 'https://instagram.com/adam_oey107'; // JANGAN UBAH-UBAH INFO!!!
+const nomer = 'Wa.me/+6283153843600'; // JANGAN UBAH-UBAH INFO!!!
 const aktif = 'Tergantung jaringan'; // JANGAN UBAH-UBAH INFO!!!
-const groupwhatsapp = 'https://chat.whatsapp.com/KtYXP8oNw9NBxr3ltcwKyU'; // JANGAN UBAH-UBAH INFO!!!
-const youtube = 'https://www.youtube.com/channel/jesnolimit'; // JANGAN UBAH-UBAH INFO!!!
+const groupwhatsapp = 'https://chat.whatsapp.com/Ezd5mUGgNTe0tPXkFNIkvu'; // JANGAN UBAH-UBAH INFO!!!
+const youtube = 'https://www.youtube.com/channel/adamoey19'; // JANGAN UBAH-UBAH INFO!!!
 //J4R07
 const qrcode = require("qrcode-terminal");
 const moment = require("moment");
@@ -148,7 +148,7 @@ else if (text == 'Asu'){
 conn.sendMessage(id, 'Lu Asw' ,MessageType.text);
 }
 else if (text == '#owner'){
-conn.sendMessage(id, ' *Owner ROOTBOT wa.me/+6282328023356* ' ,MessageType.text);
+conn.sendMessage(id, ' *Owner ROOTBOT wa.me/+6283153843600* ' ,MessageType.text);
 }
 else if (text == '#help'){
 conn.sendMessage(id, ' *Menampilkan Pilihan Menu!!!* ' ,MessageType.text);
@@ -163,7 +163,7 @@ else if (text == '#donasi'){
 conn.sendMessage(id, ' *Menampilkan Donasi!!!* ' ,MessageType.text);
 }
 else if (text == '#creator'){
-conn.sendMessage(id, ' *Creator ROOTBOT wa.me/+6282328023356* ' ,MessageType.text);
+conn.sendMessage(id, ' *Creator WIKI BOT™ wa.me/+6283153843600* ' ,MessageType.text);
 }
 else if (text == 'Pagi'){
 conn.sendMessage(id, ' _Pagi juga, Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
