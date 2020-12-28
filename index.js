@@ -188,13 +188,13 @@ conn.sendMessage(id, 'aku mauuuuuuuunya nemenin kakak.....' ,MessageType.text);
 }
 else if (text == 'selamat tahun baru'){
 conn.sendMessage(id, 'selamat tahun baru juga kak, semoga tahun besok bisa menjadi tahun yang lebih baik...' ,MessageType.text);
-{
+}
 else if (text == 'selamat tidur'){
 conn.sendMessage(id, 'selamat tidur juga kak, semoga mimpi indah dan mimpi in wiki ya😂😂' ,MessageType.text);
-{
+}
 else if (text == 'cita-cita kamu apa'){
 conn.sendMessage(id, 'menikah sama kamu' ,MessageType.text);
-{
+}
 else if (text == 'makanan paporit'){
 conn.sendMessage(id, 'makanan yg wiki suka chicken kak, kalau kakak?' ,MessageType.text);
 }
