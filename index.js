@@ -124,28 +124,91 @@ conn.sendMessage(id ,`${gg} ${exists ? " exists " : " does not exist"} on WhatsA
 
 //ChatJ4R07
 else if (text == 'assalamualaikum'){
-conn.sendMessage(id, ' _Waalaikumsalam, _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+conn.sendMessage(id, ' _Waalaikumsalam, _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#menu* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
 }
 else if (text == 'salam'){
-conn.sendMessage(id, ' _Waalaikumsalam, Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+conn.sendMessage(id, ' _Waalaikumsalam, Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#menu* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
 }
 else if (text == 'asalamualaikum'){
-conn.sendMessage(id, ' _Waalaikumsalam, Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+conn.sendMessage(id, ' _Waalaikumsalam, Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#menu* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
 }
 else if (text == 'Assalamualaikum'){
-conn.sendMessage(id, ' _Waalaikumsalam, Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+conn.sendMessage(id, ' _Waalaikumsalam, Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#menu* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
 }
 else if (text == 'p'){
-conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#menu* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
 }
 else if (text == 'P'){
-conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#menu* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
 }
 else if (text == 'Halo'){
-conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#menu* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
 }
 else if (text == 'Asu'){
 conn.sendMessage(id, 'Lu Asw' ,MessageType.text);
+}
+else if (text == 'Kamu lagi apa?'){
+conn.sendMessage(id, 'Aku lagi nyari nyari info menarik buat kakak...' ,MessageType.text);
+}
+else if (text == 'Info apa tuh'){
+conn.sendMessage(id, 'ketik *!wiki* (pertanyaan) aja kak😊' ,MessageType.text);
+}
+else if (text == 'Kamu sudah makan'){
+conn.sendMessage(id, 'kalau wiki sudah kak, kalau kakak sudah makan belum?' ,MessageType.text);
+}
+else if (text == 'juga sudah'){
+conn.sendMessage(id, 'ok kak, btw kakak makan sama apa?' ,MessageType.text);
+}
+else if (text == 'makan sama'){
+conn.sendMessage(id, 'wah... Enak sekali ya kak wiki jadi mau😅' ,MessageType.text);
+}
+else if (text == '!sticker'){
+conn.sendMessage(id, 'wahh.. Stiker!!! Wiki belum bisa kak:)' ,MessageType.text);
+}
+else if (text == 'kamu asal mana'){
+conn.sendMessage(id, 'kalau wiki asal planet mars kak..😂😂, ett. Becanda asal bumi lah😅😅' ,MessageType.text);
+}
+else if (text == 'bjirr'){
+conn.sendMessage(id, 'wkwkwk...😂😂' ,MessageType.text);
+}
+else if (text == 'kamu udah punya pacar'){
+conn.sendMessage(id, 'belum.. Kak:(, emang kakak mau jadi pacar wiki??😅😅' ,MessageType.text);
+}
+else if (text == 'mau'){
+conn.sendMessage(id, 'yes asyiiik😅😅' ,MessageType.text);
+}
+else if (text == 'gombal dong'){
+conn.sendMessage(id, 'wahh... Gombal langsuk ketik *!bucin* aja kak, nanti wiki gombalin😂😂 ' ,MessageType.text);
+}
+else if (text == 'kamu lucu'){
+conn.sendMessage(id, 'makasih kak:)' ,MessageType.text);
+}
+else if (text == 'kamu gak tidur'){
+conn.sendMessage(id, 'aku mauuuuuuuunya nemenin kakak.....' ,MessageType.text);
+}
+else if (text == 'selamat tahun baru'){
+conn.sendMessage(id, 'selamat tahun baru juga kak, semoga tahun besok bisa menjadi tahun yang lebih baik...' ,MessageType.text);
+{
+else if (text == 'selamat tidur'){
+conn.sendMessage(id, 'selamat tidur juga kak, semoga mimpi indah dan mimpi in wiki ya😂😂' ,MessageType.text);
+{
+else if (text == 'cita-cita kamu apa'){
+conn.sendMessage(id, 'menikah sama kamu' ,MessageType.text);
+{
+else if (text == 'makanan paporit'){
+conn.sendMessage(id, 'makanan yg wiki suka chicken kak, kalau kakak?' ,MessageType.text);
+}
+else if (text == 'mau curhat'){
+conn.sendMessage(id, 'silahkan kak, mungkin wiki bisa membantu' ,MessageType.text);
+}
+else if (text == 'film paporit'){
+conn.sendMessage(id, 'film yg wiki suka dilan kak:) kalau kakak?' ,MessageType.text);
+}
+else if (text == 'kalau aku'){
+conn.sendMessage(id, 'wahhh... Menarik juga kak' ,MessageType.text);
+}
+else if (text == 'Gabut'){
+conn.sendMessage(id, 'sini main sama wiki ketik *#menu* aja kak' ,MessageType.text);
 }
 else if (text == '#owner'){
 conn.sendMessage(id, ' *Owner ROOTBOT wa.me/+6283153843600* ' ,MessageType.text);
