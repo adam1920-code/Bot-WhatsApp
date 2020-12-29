@@ -507,7 +507,7 @@ axios.get(`https://arugaz.herokuapp.com/api/fb?url=${jarot}`).then((res) => {
    }
   if (text.includes('!waifu')){
   var jarot = text.replace(/!waifu /, '')
-    axios.get('https://st4rz.herokuapp.com/api/waifu')
+    axios.get('https://arugaz.herokuapp.com/api/waifu')
     .then((res) => {
       imageToBase64(res.data.image)
         .then(
@@ -578,7 +578,7 @@ conn.sendMessage(id, teks, MessageType.text)
 
 if (text.includes('!ttp')){
   var jarot = text.replace(/!ttp /, '')
-    axios.get('https://st4rz.herokuapp.com/api/ttp?kata='+jarot)
+    axios.get('https://arugaz.herokuapp.com/api/ttp?kata='+jarot)
     .then((res) => {
       imageToBase64(res.data.image)
         .then(
@@ -601,12 +601,6 @@ axios.get(`https://api.banghasan.com/domain/hostsearch/${jarot}`).then((res) => 
     let hasil = `*query : ${res.data.query}*\n\nhasil : ${res.data.hasil}`;
     conn.sendMessage(id, hasil ,MessageType.text);
   })
- }
-  if (text.includes("!husbu")){
-const jarot = text.replace(/!husbu /, "")
-axios.get(`https://arugaz.herokuapp.com/api/waifu').then((res) => {
- })
- })
  }
  if (text.includes("!zodiak")){
 const jarot = text.replace(/!zodiak /, "")
