@@ -1,4 +1,4 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px"> I'm FIKRI LANGKAP
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px"> I'm ADAM OEY
 <p align="center">
 <img src="https://i.ibb.co/LhMqJyc/IMG-20201209-013604.jpg" width="350" height="324"/>
 <br>
