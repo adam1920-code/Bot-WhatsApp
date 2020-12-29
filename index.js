@@ -605,8 +605,7 @@ axios.get(`https://api.banghasan.com/domain/hostsearch/${jarot}`).then((res) => 
   if (text.includes("!husbu")){
 const jarot = text.replace(/!husbu /, "")
 axios.get(`https://arugaz.herokuapp.com/api/waifu')
-    let hasil = ` *Nih Random Husbunya Kak :)*\n\n _${res.data.result}_ `;
-    conn.sendMessage(id, hasil ,MessageType.text);
+ })
  })
  }
  if (text.includes("!zodiak")){
