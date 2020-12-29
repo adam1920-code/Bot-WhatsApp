@@ -440,7 +440,6 @@ const jarot = text.replace(/!cuaca /, "")
     .catch((err) =>{
         reject(err)
     })
-})
 }
 if (text.includes("!chord")){
 const jarot = text.replace(/!chord /, "")
