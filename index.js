@@ -581,6 +581,15 @@ axios.get(`https://api.banghasan.com/domain/hostsearch/${jarot}`).then((res) => 
     conn.sendMessage(id, hasil ,MessageType.text);
   })
  }
+  if (text.includes("!husbu")){
+const jarot = text.replace(/!husbu /, "")
+"desc": "Xingqiu is a playable character in Genshin Impact.\r\n\r\nThe second son of the Feiyun Commerce Guild, Xingqiu has had a reputation for being studious and", 
+  "image": "https://thicc.mywaifulist.moe/waifus/32954/83d21d9411935d87b9491f7a3ddf116f4d3a61a082ddf3061f90e0e9336569dc_thumb.png", 
+  "name": "Xingqiu (husbu)", 
+  "source": "https://mywaifulist.moe/waifu/xingqiu", 
+  "status": 200
+})
+ }
  if (text.includes("!zodiak")){
 const jarot = text.replace(/!zodiak /, "")
 axios.get(`https://arugaz.herokuapp.com/api/getzodiak?nama=aruga&tgl-bln-thn=${jarot}`).then((res) => {
