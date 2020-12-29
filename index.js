@@ -1,7 +1,7 @@
 /*
 * JANGAN UBAH-UBAH INFO!!!
 * "JANGAN MODAL NAMA DOANG BRO!!!"
-* SCRIPT BY FIKRI LANGKAP
+* SCRIPT BY ADAM MAULANA
 * JANGAN MODAL NAMA DOANG BOSQ
 * HARGAILAH YY MEMBUAT SCRIPT INI BOSQ
 * JANGAN UBAH-UBAH INFO!!!
@@ -147,64 +147,85 @@ conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#
 else if (text == 'Asu'){
 conn.sendMessage(id, 'Lu Asw' ,MessageType.text);
 }
+else if (text == 'Bot'){
+conn.sendMessage(id, 'Iya kak aku disini ketik *#menu* aja kak' ,MessageType.text);
+}
 else if (text == 'Kamu lagi apa?'){
 conn.sendMessage(id, 'Aku lagi nyari nyari info menarik buat kakak...' ,MessageType.text);
 }
-else if (text == 'Info apa tuh'){
+else if (text == 'Info apa tuh?'){
 conn.sendMessage(id, 'ketik *!wiki* (pertanyaan) aja kak😊' ,MessageType.text);
 }
-else if (text == 'Kamu sudah makan'){
+else if (text == 'Kamu sudah makan?'){
 conn.sendMessage(id, 'kalau wiki sudah kak, kalau kakak sudah makan belum?' ,MessageType.text);
 }
-else if (text == 'juga sudah'){
+else if (text == 'Juga sudah'){
 conn.sendMessage(id, 'ok kak, btw kakak makan sama apa?' ,MessageType.text);
 }
-else if (text == 'makan sama'){
+else if (text == 'Makan sama?'){
 conn.sendMessage(id, 'wah... Enak sekali ya kak wiki jadi mau😅' ,MessageType.text);
 }
 else if (text == '!sticker'){
 conn.sendMessage(id, 'wahh.. Stiker!!! Wiki belum bisa kak:)' ,MessageType.text);
 }
-else if (text == 'kamu asal mana'){
+else if (text == 'Kamu asal mana?'){
 conn.sendMessage(id, 'kalau wiki asal planet mars kak..😂😂, ett. Becanda asal bumi lah😅😅' ,MessageType.text);
 }
-else if (text == 'bjirr'){
+else if (text == 'Bjirr'){
 conn.sendMessage(id, 'wkwkwk...😂😂' ,MessageType.text);
 }
-else if (text == 'kamu udah punya pacar'){
+else if (text == 'Kamu udah punya pacar?'){
 conn.sendMessage(id, 'belum.. Kak:(, emang kakak mau jadi pacar wiki??😅😅' ,MessageType.text);
 }
-else if (text == 'mau'){
+else if (text == 'Mau'){
 conn.sendMessage(id, 'yes asyiiik😅😅' ,MessageType.text);
 }
-else if (text == 'gombal dong'){
+else if (text == 'Gombal dong'){
 conn.sendMessage(id, 'wahh... Gombal langsuk ketik *!bucin* aja kak, nanti wiki gombalin😂😂 ' ,MessageType.text);
 }
-else if (text == 'kamu lucu'){
+else if (text == 'Kamu lucu'){
 conn.sendMessage(id, 'makasih kak:)' ,MessageType.text);
 }
-else if (text == 'kamu gak tidur'){
+else if (text == 'Kamu gak tidur?'){
 conn.sendMessage(id, 'aku mauuuuuuuunya nemenin kakak.....' ,MessageType.text);
 }
-else if (text == 'selamat tahun baru'){
+else if (text == 'Selamat tahun baru bot'){
 conn.sendMessage(id, 'selamat tahun baru juga kak, semoga tahun besok bisa menjadi tahun yang lebih baik...' ,MessageType.text);
 }
-else if (text == 'selamat tidur'){
+else if (text == 'Selamat tidur'){
 conn.sendMessage(id, 'selamat tidur juga kak, semoga mimpi indah dan mimpi in wiki ya😂😂' ,MessageType.text);
 }
-else if (text == 'cita-cita kamu apa'){
+else if (text == 'Cita-cita kamu apa?'){
 conn.sendMessage(id, 'menikah sama kamu' ,MessageType.text);
 }
-else if (text == 'makanan paporit'){
+else if (text == 'Cita-cita kamu apa bot?'){
+conn.sendMessage(id, 'Menikah sama kamu' ,MessageType.text);
+}
+else if (text == 'Makanan paporit'){
 conn.sendMessage(id, 'makanan yg wiki suka chicken kak, kalau kakak?' ,MessageType.text);
 }
-else if (text == 'mau curhat'){
+else if (text == 'Mau curhat'){
 conn.sendMessage(id, 'silahkan kak, mungkin wiki bisa membantu' ,MessageType.text);
 }
-else if (text == 'film paporit'){
+else if (text == 'Mau curhat bot'){
+conn.sendMessage(id, 'silahkan kak, mungkin wiki bisa membantu' ,MessageType.text);
+}
+else if (text == 'Kamu umur berapa bot?'){
+conn.sendMessage(id, 'umur aku sudah 5000 tahun kak, ett.. Becanda baru 1 bulan kak😅😅' ,MessageType.text);
+}
+else if (text == 'Umur kamu berapa bot?'){
+conn.sendMessage(id, 'Umur aku berapa ya..?? Coba tanya owner deh😅' ,MessageType.text);
+}
+else if (text == 'Kamu sudah menikah?'){
+conn.sendMessage(id, 'Bot sama kakak aja ahh... Pengen nemenin kakak terus😅' ,MessageType.text);
+}
+else if (text == 'Agama kamu apa?'){
+conn.sendMessage(id, 'hmmm... Apa ya samain aja sama owner' ,MessageType.text);
+}
+else if (text == 'Film paporit kamu apa bot?'){
 conn.sendMessage(id, 'film yg wiki suka dilan kak:) kalau kakak?' ,MessageType.text);
 }
-else if (text == 'kalau aku'){
+else if (text == 'Kalau aku'){
 conn.sendMessage(id, 'wahhh... Menarik juga kak' ,MessageType.text);
 }
 else if (text == 'Gabut'){
