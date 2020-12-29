@@ -604,12 +604,10 @@ axios.get(`https://api.banghasan.com/domain/hostsearch/${jarot}`).then((res) => 
  }
   if (text.includes("!husbu")){
 const jarot = text.replace(/!husbu /, "")
-"desc": "Xingqiu is a playable character in Genshin Impact.\r\n\r\nThe second son of the Feiyun Commerce Guild, Xingqiu has had a reputation for being studious and", 
-  "image": "https://thicc.mywaifulist.moe/waifus/32954/83d21d9411935d87b9491f7a3ddf116f4d3a61a082ddf3061f90e0e9336569dc_thumb.png", 
-  "name": "Xingqiu (husbu)", 
-  "source": "https://mywaifulist.moe/waifu/xingqiu", 
-  "status": 200
-})
+axios.get(`https://arugaz.herokuapp.com/api/waifu')
+    let hasil = ` *Nih Random Husbunya Kak :)*\n\n _${res.data.result}_ `;
+    conn.sendMessage(id, hasil ,MessageType.text);
+ })
  }
  if (text.includes("!zodiak")){
 const jarot = text.replace(/!zodiak /, "")
@@ -791,7 +789,7 @@ if (text.includes("!puisi1")){
 const jarot = text.replace(/!puisi1 /, "")
 axios.get(`https://arugaz.herokuapp.com/api/puisi1`).then((res) => {
 conn.sendMessage(id, '[❗] WAIT SEDANG DIPROSES', MessageType.text)
-    let hasil = ` *Nih Puisinya Kak :)*\n\n _${res.data.result}_ `;
+     let hasil = ` *Nih Puisinya Kak :)*\n\n _${res.data.result}_ `;
     conn.sendMessage(id, hasil ,MessageType.text);
 })
 }
