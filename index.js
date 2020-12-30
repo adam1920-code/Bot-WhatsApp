@@ -431,15 +431,13 @@ if (text.includes("!infogempa")){
 }
  if (text.includes("!cuaca")){
 const jarot = text.replace(/!cuaca /, "")
-    axios.get(`https://rest.farzain.com/api/cuaca.php?id=${url}&apikey=O8mUD3YrHIy9KM1fMRjamw8eg`)
-    .then((res) => {
-		if (res.data.respon.cuaca == null) resolve('Maaf daerah kamu tidak tersedia')
-        const text = `Cuaca di: ${res.data.respon.tempat}\n\nCuaca: ${res.data.respon.cuaca}\nAngin: ${res.data.respon.angin}\nDesk: ${res.data.respon.deskripsi}\nKelembapan: ${res.data.respon.kelembapan}\nSuhu: ${res.data.respon.suhu}\nUdara: ${res.data.respon.udara}`
-        resolve(text)
-    })
-    .catch((err) =>{
-        reject(err)
-    })
+    axios.get(`https://mnazria.herokuapp.com/api/bmkg-cuaca`)
+    .then((res) =>{
+   conn.sendMessage(id, '[❗] WAIT SEDANG DIPROSES', MessageType.text)
+	 	let hasil = ` *NIH INFO CUACANYA GAN ${jarot}:* \n\n\n _${res.data.result}_ `
+	conn.sendMessage(id, hasil, MessageType.text)
+	})
+		
 }
 if (text.includes("!chord")){
 const jarot = text.replace(/!chord /, "")
@@ -1550,6 +1548,14 @@ if (text.includes("!lirik")){
 	axios.get(`https://mnazria.herokuapp.com/api/jooxnich?search=${jarot}`).then ((res) => {
 	     conn.sendMessage(id, '[❗] WAIT SEDANG DIPROSES', MessageType.text)
 	 	let hasil = ` *🎧Lirik🎧 Lagu ${jarot}:* \n\n\n _${res.data.result}_ `
+	conn.sendMessage(id, hasil, MessageType.text)
+	})
+}
+   if (text.includes("!bot")){
+	const jarot = text.replace(/!joox /, "")
+	axios.get(`https://mnazria.herokuapp.com/api/simi?text=${jarot}`).then ((res) => {
+	     conn.sendMessage(id, '[❗] WAIT SEDANG DIPROSES', MessageType.text)
+	 	let hasil = ` *Nih jawabannya gan ${jarot}:* \n\n\n _${res.data.result}_ `
 	conn.sendMessage(id, hasil, MessageType.text)
 	})
 
