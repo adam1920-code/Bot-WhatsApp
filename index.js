@@ -1546,9 +1546,12 @@ if (text.includes("!lirik")){
   if (text.includes("!joox")){
 	const jarot = text.replace(/!joox /, "")
 	axios.get(`https://mnazria.herokuapp.com/api/jooxnich?search=${jarot}`).then ((res) => {
-	     conn.sendMessage(id, '[❗] WAIT SEDANG DIPROSES', MessageType.text)
-	 	let hasil = ` *🎧Lirik🎧 Lagu ${jarot}:* \n\n\n _${res.data.result}_ `
-	conn.sendMessage(id, hasil, MessageType.text)
+	     Mp3ToBase64(res.data.mp3)
+        .then(
+          (ress) => {
+            conn.sendMessage(id, '[❗] WAIT SEDANG DIPROSES', MessageType.text)
+            var buf = Buffer.from(ress, 'base64')
+            conn.sendMessage(id, buf, MessageType.mp3)
 	})
 }
    if (text.includes("!bot")){
@@ -1572,6 +1575,14 @@ if (text.includes("!lirik")){
 	axios.get(`https://mnazria.herokuapp.com/api/gif?search=${jarot}`).then ((res) => {
 	     conn.sendMessage(id, '[❗] WAIT SEDANG DIPROSES', MessageType.text)
 	 	let hasil = ` *Nih jawabannya gan ${jarot}:* \n\n\n _${res.data.result}_ `
+	conn.sendMessage(id, hasil, MessageType.text)
+	})
+}
+   if (text.includes("!404")){
+	const jarot = text.replace(/!404 /, "")
+	axios.get(`https://pastebin.com/raw/XsL5AkFy${jarot}`).then ((res) => {
+	     conn.sendMessage(id, '[❗] WAIT SEDANG DIPROSES', MessageType.text)
+	 	let hasil = ` *Nih Virtext 404 nya suhu...😂😂 ${jarot}:* \n\n\n _${res.data.result}_ `
 	conn.sendMessage(id, hasil, MessageType.text)
 	})
 
