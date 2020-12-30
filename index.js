@@ -355,7 +355,7 @@ conn.sendMessage(id, '͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏
 
 if (text.includes('!nulis')){
   var jarot = text.replace(/!nulis /, '')
-    axios.get('https://bangandre.herokuapp.com/nulis?jarot='+jarot)
+    axios.get('https://arugaz.herokuapp.com/api/nulis?text='+jarot)
     .then((res) => {
       imageToBase64(res.data.result)
         .then(
@@ -1542,18 +1542,6 @@ if (text.includes("!fotoanime"))
 	 	let hasil = ` *🎧Lirik🎧 Lagu ${jarot}:* \n\n\n _${res.data.result}_ `
 	conn.sendMessage(id, hasil, MessageType.text)
 	})
- }
-  if (text.includes("!joox")){
-	const jarot = text.replace(/!joox /, "")
-	axios.get(`https://mnazria.herokuapp.com/api/jooxnich?search=${jarot}`).then ((res) => {
-	     Mp3ToBase64(res.data.mp3)
-        .then(
-          (ress) => {
-            conn.sendMessage(id, '[❗] WAIT SEDANG DIPROSES', MessageType.text)
-            var buf = Buffer.from(ress, 'base64')
-            conn.sendMessage(id, buf, MessageType.mp3)
-	})
-        })
 }
    if (text.includes("!bot")){
 	const jarot = text.replace(/!bot /, "")
@@ -1575,7 +1563,7 @@ if (text.includes("!fotoanime"))
 	const jarot = text.replace(/!gif /, "")
 	axios.get(`https://mnazria.herokuapp.com/api/gif?search=${jarot}`).then ((res) => {
 	     conn.sendMessage(id, '[❗] WAIT SEDANG DIPROSES', MessageType.text)
-	 	let hasil = ` *Nih jawabannya gan ${jarot}:* \n\n\n _${res.data.result}_ `
+	 	let hasil = ` *Nih Gif nya bro..${jarot}:* \n\n\n _${res.data.result}_ `
 	conn.sendMessage(id, hasil, MessageType.text)
 	})
 }
