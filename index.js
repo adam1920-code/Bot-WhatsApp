@@ -1533,9 +1533,9 @@ if (text.includes("!fotoanime"))
         )
     
     });
-    }
  
-if (text.includes("!lirik")){
+   }
+ if (text.includes("!lirik")){
 	const jarot = text.replace(/!lirik /, "")
 	axios.get(`https://arugaz.herokuapp.com/api/lirik?judul=${jarot}`).then ((res) => {
 	     conn.sendMessage(id, '[❗] WAIT SEDANG DIPROSES', MessageType.text)
@@ -1553,6 +1553,7 @@ if (text.includes("!lirik")){
             var buf = Buffer.from(ress, 'base64')
             conn.sendMessage(id, buf, MessageType.mp3)
 	})
+        })
 }
    if (text.includes("!bot")){
 	const jarot = text.replace(/!bot /, "")
