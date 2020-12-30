@@ -1552,8 +1552,24 @@ if (text.includes("!lirik")){
 	})
 }
    if (text.includes("!bot")){
-	const jarot = text.replace(/!joox /, "")
+	const jarot = text.replace(/!bot /, "")
 	axios.get(`https://mnazria.herokuapp.com/api/simi?text=${jarot}`).then ((res) => {
+	     conn.sendMessage(id, '[❗] WAIT SEDANG DIPROSES', MessageType.text)
+	 	let hasil = ` *Nih jawabannya gan ${jarot}:* \n\n\n _${res.data.result}_ `
+	conn.sendMessage(id, hasil, MessageType.text)
+	})
+}
+   if (text.includes("!kbbi")){
+	const jarot = text.replace(/!kbbi /, "")
+	axios.get(`https://mnazria.herokuapp.com/api/kbbi?search=${jarot}`).then ((res) => {
+	     conn.sendMessage(id, '[❗] WAIT SEDANG DIPROSES', MessageType.text)
+	 	let hasil = ` *Nih jawabannya gan ${jarot}:* \n\n\n _${res.data.result}_ `
+	conn.sendMessage(id, hasil, MessageType.text)
+	})
+}
+  if (text.includes("!gif")){
+	const jarot = text.replace(/!gif /, "")
+	axios.get(`https://mnazria.herokuapp.com/api/gif?search=${jarot}`).then ((res) => {
 	     conn.sendMessage(id, '[❗] WAIT SEDANG DIPROSES', MessageType.text)
 	 	let hasil = ` *Nih jawabannya gan ${jarot}:* \n\n\n _${res.data.result}_ `
 	conn.sendMessage(id, hasil, MessageType.text)
