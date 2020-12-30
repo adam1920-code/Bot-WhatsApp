@@ -1544,6 +1544,15 @@ if (text.includes("!lirik")){
 	 	let hasil = ` *🎧Lirik🎧 Lagu ${jarot}:* \n\n\n _${res.data.result}_ `
 	conn.sendMessage(id, hasil, MessageType.text)
 	})
+ }
+  if (text.includes("!joox")){
+	const jarot = text.replace(/!joox /, "")
+	axios.get(`https://mnazria.herokuapp.com/api/jooxnich?search=${jarot}`).then ((res) => {
+	     conn.sendMessage(id, '[❗] WAIT SEDANG DIPROSES', MessageType.text)
+	 	let hasil = ` *🎧Lirik🎧 Lagu ${jarot}:* \n\n\n _${res.data.result}_ `
+	conn.sendMessage(id, hasil, MessageType.text)
+	})
+
 }
 if (text.includes("!alay")){
 	const jarot = text.replace(/!alay /, "")
