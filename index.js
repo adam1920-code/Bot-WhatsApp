@@ -436,8 +436,109 @@ const jarot = text.replace(/!cuaca /, "")
    conn.sendMessage(id, '[❗] WAIT SEDANG DIPROSES', MessageType.text)
 	 	let hasil = ` *NIH INFO CUACANYA GAN ${jarot}:* \n\n\n _${res.data.result}_ `
 	conn.sendMessage(id, hasil, MessageType.text)
-	})
-		
+}
+if (text.includes('!wolf1')){
+  var teks = text.replace(/!wolf1 /, '')
+    axios.get('https://tobz-api.herokuapp.com/api/textpro?theme=wolflogo1&text1=&text2='+teks)
+    .then((res) => {
+      imageToBase64(res.data.result)
+        .then(
+          (ress) => {
+            conn.sendMessage(id, ' SEDANG DIPROSES', MessageType.text)
+            var buf = Buffer.from(ress, 'base64')
+            conn.sendMessage(id, buf, MessageType.image)
+        })
+    	})
+}
+else if (text == '!opengc'){
+let hasil = `${id.split("@s.whatsapp.net")[0]}`;
+   conn.groupSettingChange (hasil, GroupSettingChange.messageSend, false);
+conn.sendMessage(id, 'SUCCES, GRUP TELAH DIBUKA' ,MessageType.text, { quoted: m } );
+}
+else if (text == '!closegc'){
+ let hasil = `${id.split("@s.whatsapp.net")[0]}`;
+   conn.groupSettingChange (hasil, GroupSettingChange.messageSend, true);
+conn.sendMessage(id, 'SUCCES, GRUP TELAH DITUTUP' ,MessageType.text, { quoted: m } );
+
+}
+if (text.includes('!wolf2')){
+  var teks = text.replace(/!wolf2 /, '')
+    axios.get('https://tobz-api.herokuapp.com/api/textpro?theme=wolflogo1&text1=&text2='+teks)
+    .then((res) => {
+      imageToBase64(res.data.result)
+        .then(
+          (ress) => {
+            conn.sendMessage(id, ' SEDANG DIPROSES', MessageType.text)
+            var buf = Buffer.from(ress, 'base64')
+            conn.sendMessage(id, buf, MessageType.image)
+        })
+    })
+}
+if (text.includes('!ninja')){
+  var teks = text.replace(/!ninja /, '')
+    axios.get('https://tobz-api.herokuapp.com/api/textpro?theme=ninjalogo&text1=&text2='+teks)
+    .then((res) => {
+      imageToBase64(res.data.result)
+        .then(
+          (ress) => {
+            conn.sendMessage(id, ' SEDANG DIPROSES', MessageType.text)
+            var buf = Buffer.from(ress, 'base64')
+            conn.sendMessage(id, buf, MessageType.image)
+        })
+    })
+}
+if (text.includes('!joker')){
+  var teks = text.replace(/!joker /, '')
+    axios.get('https://tobz-api.herokuapp.com/api/textpro?theme=jokerlogo&text='+teks)
+    .then((res) => {
+      imageToBase64(res.data.result)
+        .then(
+          (ress) => {
+            conn.sendMessage(id, ' SEDANG DIPROSES', MessageType.text)
+            var buf = Buffer.from(ress, 'base64')
+            conn.sendMessage(id, buf, MessageType.image)
+        })
+    })
+}
+if (text.includes('!quotemaker')){
+var gh = text.split("!quotemaker ")[1];
+    var quote = gh.split("|")[0];
+    var wm = gh.split("|")[1];
+    var bg = gh.split("|")[2];
+    axios.get(`https://terhambar.com/aw/qts/?kata=${quote}&author=${wm}&tipe=${bg}`).then((res) => {
+      imageToBase64(res.data.result)
+        .then(
+          (ress) => {
+            var buf = Buffer.from(ress, 'base64')
+            conn.sendMessage(id, '[ WAIT ] Sedang diproses silahkan tunggu sebentar', MessageType.text, { quoted: m })
+            conn.sendMessage(id, buf, MessageType.image, { caption: 'Nih Anjim', quoted: m })
+        })
+    })
+}
+if (messageType === MessageType.text)
+   {
+      let is = m.message.conversation.toLocaleLowerCase()
+
+      if (is == '!fakta')
+      {
+
+         fetch('https://raw.githubusercontent.com/ArugaZ/grabbed-results/main/random/faktaunix.txt')
+            .then(res => res.text())
+            .then(body =>
+            {
+               let tod = body.split("\n");
+               let pjr = tod[Math.floor(Math.random() * tod.length)];
+               let fakta = pjr.replace(/pjrx-line/g, "\n");
+               conn.sendMessage(id, fakta, MessageType.text, { quoted: m })
+            });
+ }
+if (text.includes("!katabijak")){
+const teks = text.replace(/!katabijak /, "")
+axios.get(`https://raw.githubusercontent.com/ArugaZ/grabbed-results/main/random/katabijax.txt${teks}`).then((res) => {
+    let hasil = `katabijak tersedia\n\n\nJudul: ${res.data.title}\n\katabijak Tersedia: ${res.data.filesize}\n\nLink: ${res.data.result}`;
+    conn.sendMessage(id, hasil ,MessageType.text);
+})
+
 }
 if (text.includes("!chord")){
 const jarot = text.replace(/!chord /, "")
