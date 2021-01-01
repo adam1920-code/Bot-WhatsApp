@@ -438,7 +438,7 @@ const jarot = text.replace(/!cuaca /, "")
 	conn.sendMessage(id, hasil, MessageType.text)
 }
 if (text.includes('!wolf1')){
-  var teks = text.replace(/!wolf1 /, '')
+  const jarot = text.replace(/!wolf1 /, '')
     axios.get('https://tobz-api.herokuapp.com/api/textpro?theme=wolflogo1&text1=&text2='+teks)
     .then((res) => {
       imageToBase64(res.data.result)
@@ -462,8 +462,10 @@ conn.sendMessage(id, 'SUCCES, GRUP TELAH DITUTUP' ,MessageType.text, { quoted: m
 
 }
 if (text.includes('!wolf2')){
-  var teks = text.replace(/!wolf2 /, '')
-    axios.get('https://tobz-api.herokuapp.com/api/textpro?theme=wolflogo1&text1=&text2='+teks)
+  var porn = text.split("!wolf2 ")[1];
+   var text1 = wolf2.split("|")[0];
+    var text2 = wolf2.split("|")[1];
+    axios.get('https://tobz-api.herokuapp.com/api/textpro?theme=wolflogo1&text1=${teks1}&text2=${teks2}')
     .then((res) => {
       imageToBase64(res.data.result)
         .then(
@@ -475,8 +477,10 @@ if (text.includes('!wolf2')){
     })
 }
 if (text.includes('!ninja')){
-  var teks = text.replace(/!ninja /, '')
-    axios.get('https://tobz-api.herokuapp.com/api/textpro?theme=ninjalogo&text1=&text2='+teks)
+ var porn = text.split("!ninja ")[1]; 
+    var text1 = ninja.split("|")[0];
+    var text2 = ninja.split("|")[1];
+    axios.get('https://tobz-api.herokuapp.com/api/textpro?theme=ninjalogo&text1=${teks1}&text2=${teks2}')
     .then((res) => {
       imageToBase64(res.data.result)
         .then(
@@ -487,8 +491,34 @@ if (text.includes('!ninja')){
         })
     })
 }
+if (text.includes('!logogaming')){
+  const jarot = text.replace(/!logogaming /, '')
+    axios.get('https://docs-jojo.herokuapp.com/api/gaming?text=${teks}').then((res) => {
+      imageToBase64(res.data.result)
+        .then(
+          (ress) => {
+            var buf = Buffer.from(ress, 'base64')
+            conn.sendMessage(id, buf, MessageType.image)
+        })
+    })
+}
+if (text.includes('!pornhub')){
+var porn = text.split("!pornhub ")[1];
+    var text1 = porn.split("|")[0];
+    var text2 = porn.split("|")[1];
+    axios.get('https://mhankbarbars.herokuapp.com/api/textpro?theme=pornhub&text1=${text1}&text2=${text2}').then((res) => {
+      imageToBase64(res.data.result)
+        .then(
+          (ress) => {
+            var buf = Buffer.from(ress, 'base64')
+            conn.sendMessage(id, '[ WAIT ] Sedang diproses silahkan tunggu sebentar', MessageType.text, { quoted: m })
+            conn.sendMessage(id, buf, MessageType.image, { quoted: m });
+        })
+    })
+
+}
 if (text.includes('!joker')){
-  var teks = text.replace(/!joker /, '')
+  const jarot = text.replace(/!joker /, '')
     axios.get('https://tobz-api.herokuapp.com/api/textpro?theme=jokerlogo&text='+teks)
     .then((res) => {
       imageToBase64(res.data.result)
@@ -501,7 +531,7 @@ if (text.includes('!joker')){
     })
 }
 if (text.includes('!quotemaker')){
-var gh = text.split("!quotemaker ")[1];
+var gh = text.split("/!quotemaker /, "")
     var quote = gh.split("|")[0];
     var wm = gh.split("|")[1];
     var bg = gh.split("|")[2];
@@ -533,7 +563,7 @@ if (messageType === MessageType.text)
             });
  }
 if (text.includes("!katabijak")){
-const teks = text.replace(/!katabijak /, "")
+const jarot = text.replace(/!katabijak /, "")
 axios.get(`https://raw.githubusercontent.com/ArugaZ/grabbed-results/main/random/katabijax.txt${teks}`).then((res) => {
     let hasil = `katabijak tersedia\n\n\nJudul: ${res.data.title}\n\katabijak Tersedia: ${res.data.filesize}\n\nLink: ${res.data.result}`;
     conn.sendMessage(id, hasil ,MessageType.text);
@@ -872,6 +902,7 @@ if (text.includes("!cektanggal")){
 })
 }
 else if (text == '!quran'){
+const jarot = text.replace(/!quran /, "")
 axios.get('https://api.banghasan.com/quran/format/json/acak').then((res) => {
     const sr = /{(.*?)}/gi;
     const hs = res.data.acak.id.ayat;
