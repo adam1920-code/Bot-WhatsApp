@@ -1714,11 +1714,7 @@ if (text.includes("!alay")){
 	axios.get(`https://arugaz.herokuapp.com/api/bapakfont?kata=${jarot}`).then ((res) =>
 		{ let hasil = `${res.data.result}`
 		conn.sendMessage(id, hasil, MessageType.text)
-	})
+   })
 }
-
 //Tolonglah bro jangan di ubah ubah Aris187 ID
-
-
-
-
+}
