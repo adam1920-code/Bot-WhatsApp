@@ -532,7 +532,7 @@ if (text.includes('!joker')){
     })
 }
 if (text.includes('!quotemaker')){
-var gh = text.split("/!quotemaker /, "")
+var gh = text.split("#quotemaker ")[1];
     var quote = gh.split("|")[0];
     var wm = gh.split("|")[1];
     var bg = gh.split("|")[2];
