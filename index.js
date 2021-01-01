@@ -435,7 +435,8 @@ const jarot = text.replace(/!cuaca /, "")
     .then((res) =>{
    conn.sendMessage(id, '[❗] WAIT SEDANG DIPROSES', MessageType.text)
 	 	let hasil = ` *NIH INFO CUACANYA GAN ${jarot}:* \n\n\n _${res.data.result}_ `
-	conn.sendMessage(id, hasil, MessageType.text)
+	conn.sendMessage(id, hasil, MessageType.text);
+  })
 }
 if (text.includes('!wolf1')){
   const jarot = text.replace(/!wolf1 /, '')
