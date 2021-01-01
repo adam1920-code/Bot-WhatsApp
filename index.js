@@ -1720,5 +1720,5 @@ if (text.includes("!alay")){
 //Tolonglah bro jangan di ubah ubah Aris187 ID
 
 
-}
+
 
